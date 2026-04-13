@@ -23,8 +23,8 @@
 
 | **网站名称**                  | **是否支持 WebP 上传** | **报错行为**   | **备注** | 截图                                                         |
 | ----------------------------- | ---------------------- | -------------- | -------- | ------------------------------------------------------------ |
-| [少数派](https://sspai.com/)  | ❌ 不支持               | 提示格式不支持 | 草台班子 | https://asiaassets.gokuscraper.com/images/2026/04/14/d717c3ba9e705e78.webp |
-| [Medium](https://medium.com/) | ❌ 不支持               | 直接报错       | 草台班子 | https://asiaassets.gokuscraper.com/images/2026/04/14/a70239e3c7116261.webp |
+| [少数派](https://sspai.com/)  | ❌ 不支持               | 提示格式不支持 | 草台班子 | [图片](https://asiaassets.gokuscraper.com/images/2026/04/14/d717c3ba9e705e78.webp) |
+| [Medium](https://medium.com/) | ❌ 不支持               | 直接报错       | 草台班子 | [图片](https://asiaassets.gokuscraper.com/images/2026/04/14/a70239e3c7116261.webp) |
 |                               |                        |                |          |                                                              |
 
 ---
